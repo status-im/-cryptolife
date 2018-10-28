@@ -3,6 +3,7 @@
 [Github page from 'earn while you learn' project/skilltree](https://ninabreznik.github.io/CryptoLife/)
 
 ## Resources
+* [Inspiration for our skilltree](http://www.dungeonsanddevelopers.com/#_ar_4_Your%20Name)
 * https://ninabreznik.github.io/workshop_app/
 * https://github.com/ninabreznik/workshop_app/
 * [Work in progress - Solidity workshop](https://github.com/grdddj/My-codebase/tree/master/Hackathon%20Prague%2026.-28.%2010.%202018)
