@@ -1,0 +1,19 @@
+{
+    "title": "Functions Modifiers",
+    "version": "1.0.0",
+    "icon": "/test/icon.svg",
+    "chat": "https://gitter.im/ethereum/play",
+    "lessons": [{
+      "lesson": "https://www.youtube.com/watch?v=U-5FHKq7weo",
+      "tool": "https://solidity.readthedocs.io/en/v0.4.24/structure-of-a-contract.html#function-modifiers",
+      "info": "./solidity-functions-modifiers.md"
+      }],
+    "needs": [
+      "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/1.json",
+      "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/2.json",
+      "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/3.json"
+    ],
+    "unlocks": [
+      "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/5.json"
+    ]
+}

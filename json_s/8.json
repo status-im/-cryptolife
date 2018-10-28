@@ -1,0 +1,17 @@
+{
+    "title": "Remix",
+    "version": "1.0.0",
+    "icon": "/test/icon.svg",
+    "chat": "https://gitter.im/ethereum/play",
+    "lessons": [{
+      "lesson": "https://www.youtube.com/watch?v=QdG9xsOolJ4",
+      "tool": "http://remix.ethereum.org",
+      "info": "./solidity-types.md"
+    }],
+      "needs": [
+        "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/7.json"
+    ],
+    "unlocks": [
+      ""
+    ]
+  }
