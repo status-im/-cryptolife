@@ -1,8 +1,10 @@
 <div align="center">
-  <p>
+  <h2>
     xPay: A permissionless alternative to WeChat Pay and Alipay. xPay is an Open Source crypto point of sale based on xDAI. 
-  </p>
+  </h2>
 </div>
+
+![xPay](https://raw.githubusercontent.com/Alexintosh/CryptoLife/master/dexlab/Cover.png)
 
 
 [Presentation](https://docs.google.com/presentation/d/1hcjch0sa3PHPI-ZO6rygStqH4nHVMDoJYmnArETAeBg/edit?usp=sharing)
