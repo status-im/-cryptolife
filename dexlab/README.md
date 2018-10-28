@@ -2,11 +2,6 @@
   <p>
     xPay: A permissionless alternative to WeChat Pay and Alipay. xPay is an Open Source crypto point of sale based on xDAI. 
   </p>
-  <p>
-  <a href="https://play.google.com/store/apps/details?id=io.dexlabs.dexwallet">
-    <img src="assets/google-play.png" width="110"/>
-  </a>
-  </p>
 </div>
 
 
