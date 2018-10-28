@@ -4,8 +4,9 @@
   </h2>
 </div>
 
-![xPay](https://raw.githubusercontent.com/Alexintosh/CryptoLife/master/dexlab/Cover.png)
-
+<a href="https://youtu.be/k8qFi2Oa_PY">
+  <img src="https://raw.githubusercontent.com/Alexintosh/CryptoLife/master/dexlab/Cover.png">
+</a>
 
 [Presentation](https://docs.google.com/presentation/d/1hcjch0sa3PHPI-ZO6rygStqH4nHVMDoJYmnArETAeBg/edit?usp=sharing)
 ## Inspiration
