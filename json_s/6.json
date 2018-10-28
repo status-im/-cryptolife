@@ -1,0 +1,21 @@
+{
+    "title": "Imports and Libraries",
+    "version": "1.0.0",
+    "icon": "/test/icon.svg",
+    "chat": "https://gitter.im/ethereum/play",
+    "lessons": [{
+      "lesson": "https://www.youtube.com/watch?v=0Lyf_3kA3Ms",
+      "tool": "http://remix.ethereum.org",
+      "info": "./solidity-types.md"
+    }],
+      "needs": [
+        "http://172.31.253.118:9966/json_s/1.json",
+        "http://172.31.253.118:9966/json_s/2.json",
+        "http://172.31.253.118:9966/json_s/3.json",
+        "http://172.31.253.118:9966/json_s/4.json",
+        "http://172.31.253.118:9966/json_s/5.json"
+    ],
+    "unlocks": [
+      ""
+    ]
+  }

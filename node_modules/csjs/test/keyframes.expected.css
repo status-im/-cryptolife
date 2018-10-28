@@ -1,0 +1,20 @@
+
+
+  @keyframes yolo_4lrRRM {
+    0%   { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  .foo_4lrRRM {
+    animation: yolo_4lrRRM 5s infinite;
+  }
+
+  @keyframes yoloYolo_4lrRRM {
+    0%   { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  .bar_4lrRRM {
+    animation: yoloYolo_4lrRRM 5s infinite;
+  }
+

@@ -1,0 +1,17 @@
+{
+    "title": "Test networks",
+    "version": "1.0.0",
+    "icon": "/test/icon.svg",
+    "chat": "https://gitter.im/ethereum/play",
+    "lessons": [{
+      "lesson": "https://www.youtube.com/watch?v=QdG9xsOolJ4",
+      "tool": "https://solidity.readthedocs.io/en/v0.4.24/types.html",
+      "info": "./solidity-types.md"
+    }],
+      "needs": [
+        "http://172.31.253.118:9966/json_s/7.json"
+    ],
+    "unlocks": [
+      ""
+    ]
+  }

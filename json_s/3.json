@@ -1,0 +1,17 @@
+{
+    "title": "Mappings and Strucks",
+    "version": "1.0.0",
+    "icon": "/test/icon.svg",
+    "chat": "https://gitter.im/ethereum/play",
+    "lessons": [{
+      "lesson": "https://www.youtube.com/watch?v=gfXewa4xmYE",
+      "tool": "https://solidity.readthedocs.io/en/v0.4.24/types.html#mappings"
+    }],
+    "needs": [
+      "http://172.31.253.118:9966/json_s/1.json",
+      "http://172.31.253.118:9966/json_s/2.json"
+    ],
+    "unlocks": [
+      "http://172.31.253.118:9966/json_s/5.json"
+    ]
+}

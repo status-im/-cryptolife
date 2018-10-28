@@ -1,0 +1,30 @@
+{
+  "name": "play-logo",
+  "version": "4.0.2",
+  "description": "Play skilltree",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "budo src/index.js:bundle.js --dir ./ --live --open",
+    "build": "browserify src/index.js > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "cryptolife",
+    "workshops",
+    "play",
+    "skilltree"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@babel/polyfill": "^7.0.0",
+    "bel": "^6.0.0",
+    "csjs-inject": "^1.0.1",
+    "cytoscape": "^3.2.18"
+  },
+  "devDependencies": {
+    "budo": "^11.5.0"
+  }
+}
