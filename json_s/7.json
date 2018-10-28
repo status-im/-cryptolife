@@ -9,7 +9,7 @@
       "info": "./solidity-types.md"
     }],
       "needs": [
-        "http://172.31.253.118:9966/json_s/6.json"
+        "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/6.json"
     ],
     "unlocks": [
       ""

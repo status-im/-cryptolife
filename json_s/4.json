@@ -9,11 +9,11 @@
       "info": "./solidity-functions-modifiers.md"
       }],
     "needs": [
-      "http://172.31.253.118:9966/json_s/1.json",
-      "http://172.31.253.118:9966/json_s/2.json",
-      "http://172.31.253.118:9966/json_s/3.json"
+      "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/1.json",
+      "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/2.json",
+      "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/3.json"
     ],
     "unlocks": [
-      "http://172.31.253.118:9966/json_s/5.json"
+      "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/5.json"
     ]
 }

@@ -73,16 +73,16 @@ function html () {
 
 
   var arr = [
-    "http://172.31.253.118:9966/json_s/1.json",
-    "http://172.31.253.118:9966/json_s/2.json",
-    "http://172.31.253.118:9966/json_s/3.json",
-    "http://172.31.253.118:9966/json_s/4.json",
-    "http://172.31.253.118:9966/json_s/5.json",
-    "http://172.31.253.118:9966/json_s/6.json",
-    "http://172.31.253.118:9966/json_s/7.json",
-    "http://172.31.253.118:9966/json_s/8.json",
-    "http://172.31.253.118:9966/json_s/9.json",
-    "http://172.31.253.118:9966/json_s/10.json"
+    "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/1.json",
+    "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/2.json",
+    "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/3.json",
+    "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/4.json",
+    "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/5.json",
+    "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/6.json",
+    "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/7.json",
+    "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/8.json",
+    "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/9.json",
+    "https://raw.githubusercontent.com/ninabreznik/CryptoLife/master/json_s/10.json"
   ]
 
   var el = bel`
