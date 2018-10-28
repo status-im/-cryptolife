@@ -58,7 +58,7 @@ export default {
       let actualBond = await BondHelper.getBond()
       let timeleft = actualBond[9].c[0] + actualBond[5].c[0] - await BondHelper.getCurrentBlockNumber()
       let granted = !actualBond[0].c[0]
-      // console.log(actualBond[2].c[0])
+      // console.log(actualBond)
       this.loans[arrayPosition] = {
         contract: address,
         lender: actualBond[0].c[0],
@@ -78,17 +78,15 @@ export default {
         auditorAddress: actualBond[13],
         auditor: 'S&P'
       }
-      await AuditorsRegistryHelper.init()
-      this.loans[arrayPosition].auditor = await AuditorsRegistryHelper.getAuditor(actualBond[13])
-      console.log("AUDITOR:",this.loans[arrayPosition].auditor)
+      // this.loans[arrayPosition].auditor = await AuditorsRegistryHelper.getAuditor(actualBond[13])
+      // console.log("AUDITOR:",this.loans[arrayPosition].auditor)
     }
   },
   created: async function () {
     this.error = this.loansAddresses = null
     await LoanRegistry.init()
     await BondHelper.init()
-
-    // this.loansLength = await LoanRegistry.getLoansLength()
+    // await AuditorsRegistryHelper.init()
     this.loansAddresses = await LoanRegistry.getLoans(0)
     await this.getBondsData()
   },

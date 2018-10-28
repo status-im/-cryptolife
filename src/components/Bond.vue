@@ -6,7 +6,7 @@
                   header="Audit"
                   class="text-center">
               <p class="card-text">
-                <b-progress :value="details.rating" :max="20" variant="secondary"></b-progress>
+                <b-progress :value="14" :max="20" variant="secondary"></b-progress>
                 <br>
                 <button type="button" class="btn btn-secondary btn-sm">{{ details.auditor }}  </button>
                    
